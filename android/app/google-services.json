@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204131603427",
+    "firebase_url": "https://flutter-challenge-todo.firebaseio.com",
+    "project_id": "flutter-challenge-todo",
+    "storage_bucket": "flutter-challenge-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204131603427:android:3b7635516bde2de45d86d6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204131603427-uuuj6qtc69vefb643c6f4bpqt30atlpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_VYpVrEc0TjVd5ZAngabvUXSe3Wl7Xkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204131603427-uuuj6qtc69vefb643c6f4bpqt30atlpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
