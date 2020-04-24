@@ -1,16 +1,14 @@
-# flutter_challenge
+# Flutter TODO app (Challenge Flutterando)
 
-A new Flutter project.
+A simple todo app using Flutter, Firabase and HASURA for studies.
+Created by Slidy CLI using Modular patterns, SOLID concepts and MobX as state manager.
 
-## Getting Started
+Based in videos: <a href="https://www.youtube.com/watch?v=D7X62KPDkMc&list=PLlBnICoI-g-cimlS2g7JehqfWBSZrNlRK">First part (Project structure, Firebase and Mobx)</a> / <a href="https://www.youtube.com/watch?v=DejSu-KDZKk">Second part (SOLID and HASURA)</a>
 
-This project is a starting point for a Flutter application.
+<a href="https://github.com/Flutterando/slidy"> Slidy reference </a>
+<a href="https://github.com/Flutterando/modular"> Modular reference </a>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
